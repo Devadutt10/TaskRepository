@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.div-one{
+    width: 100%;
+    background-color: rgb(242, 57, 57);
+    height: 150px;
+}
+
+.div-two{
+    width: 100%;
+    background-color: rgb(46, 46, 246);
+    height: 400px;
+}
+
+.div-three{
+    width: 100%;
+    background-color: rgb(55, 241, 55);
+    height: 200px;
+
+}
